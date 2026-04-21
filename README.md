@@ -1,2 +1,3 @@
 # AI_Skills
-Skills: specific structure instructions for ai tasks imporvements
+Skills: specific structure instructions for ai tasks improvements
+
